@@ -1,0 +1,10 @@
+print ("hello world")
+print(5)
+print("xin",10,"nghìn")
+
+print("xin","chào",sep="-")
+print('xin chao',end=":")
+print('phước')
+a = int(input("nhập tên"))
+b = int(input("nhập họ"))
+print('tên={0},họ={1}'.format('phước','đẹp trai'))
